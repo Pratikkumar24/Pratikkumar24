@@ -1,6 +1,6 @@
 <img align="right" alt="coding" width="100" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 <h1 align="center">Hi 👋, I'm Pratik</h1>
-<h3 align="center">A Network Security Enthusiast, Computer science undergraduate NIT Goa</h3>
+<h3 align="center">Senior Software Engineer at Samsung R&D, Computer science undergraduate NIT Goa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikkumar24&label=Profile%20views&color=0e75b6&style=flat" alt="pratikkumar24" /> </p>
 
