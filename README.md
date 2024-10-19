@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikkumar24" alt="pratikkumar24" /></a> </p>
 
-- 🌱 I’m currently learning **Penetration testing,Bug bounty hunting**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Pratikkumar24](https://github.com/Pratikkumar24)
 
 - 📝 I regularly write articles on [https://medium.com/@pratikk-24](https://medium.com/@pratikk-24)
